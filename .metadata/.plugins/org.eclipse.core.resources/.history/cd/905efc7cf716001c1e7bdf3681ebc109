@@ -1,0 +1,23 @@
+
+public class ConsoleFaixaEtaria {
+
+	public static void main(String[] args) {
+
+		/*
+		 * Solicitar ao usuário para digitar uma idade. Após, escrever
+		 * na tela qual é a faixa etária correspondente aquela idade
+		 * 
+		 * até 3 anos: bebê
+		 * até 9 anos: criança
+		 * até 12 anos: pré-adolescente
+		 * até 19 anos: adolescente
+		 * até 29 anos: jovem
+		 * até 35 anos: adulto jovem
+		 * até 59 anos: adulto
+		 * até 80 anos: idoso
+		 * acima de 80 anos: ancião
+		 */
+
+	}
+
+}

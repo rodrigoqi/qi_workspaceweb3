@@ -1,0 +1,32 @@
+
+public class Embalagem {
+
+	//ATRIBUTOS
+	//	nº inteiro - int
+	//	nº quebrado - double / float
+	// 	texto - String
+	//  um único caractere - char
+	//	booleano (verdadeiro/falso) - bool
+	
+	private double largura;
+	private double comprimento;
+	private double altura;
+	private String cor;
+	private int capacidade;
+	private int produtos;
+	
+	//MÉTODOS
+	
+	//1-construtor: public NomeClasse(){}
+	public Embalagem(String cor, int capacidade) {
+		this.largura = 50.0;
+		this.comprimento = 75.5;
+		this.altura = 15.2;
+		this.cor = cor;
+		this.capacidade = capacidade;
+		this.produtos = 0;
+	}
+	
+	
+	
+}

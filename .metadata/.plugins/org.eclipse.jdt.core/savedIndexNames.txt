@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\Users\moug_\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+685575961.index
+3608964293.index
+517233653.index
+423794861.index
+3018012877.index
+4081483428.index
+1817735937.index
+727593610.index
+1368169536.index
+3921354591.index
+1997101967.index
+362437561.index
+1207859809.index
+615365122.index
