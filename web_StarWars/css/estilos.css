@@ -1,3 +1,86 @@
+@font-face{
+    src: url("../font/wwDigital.ttf");
+    font-family: "wwDigital";
+}
+
+@font-face{
+    src: url("../font/spaceWoozie.ttf");
+    font-family: "space";
+}
+
+@font-face{
+    src: url("../font/ultravioleta.ttf");
+    font-family: "ultra";
+}
+
+@font-face{
+    src: url("../font/Sketch.ttf");
+    font-family: "sketck";
+}
 
 
 
+#principal{
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
+
+#cabecalho{
+    height: 200px;
+    width: 1000px;
+    float: top;
+    background-image: url("../img/header.jpg");
+    background-size: 100% 100%;
+}
+
+body{
+    background-image: url("../img/space.jpg");
+    background-size: 100% 100%;
+}
+
+#menu{
+    height: 50px;
+    width: 1000px;
+    float: left;
+    background-color: blueviolet;
+}
+
+.opcao{
+    height: 35px;
+    width: 200px;
+    float: left;
+    background-color: black;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    transition: background-color 1s;
+}
+
+.opcao:hover{
+    background-color: #2E2E2E;
+    transition: background-color 1s;
+}
+
+#texto{
+    width: 960px;
+    float: left;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 22px;
+    text-align: justify;
+    padding: 20px;
+    font-family: "wwDigital";
+}
+
+.miniatura{
+    height: 250px;
+    width: 333.33px;
+    float: left;
+    background-color: darkgoldenrod;
+}
+
+.miniatura img{
+    height: 100%;
+    width: 100%;
+}
